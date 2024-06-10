@@ -13,7 +13,7 @@
 Before installing Jarvis, ensure you have Python and pip installed on your system. Follow these steps to get started:
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/jarvis.git
+   git clone https://github.com/azen-tech/mini-project-jarvis-.git
    ```
 2. Navigate to the Jarvis directory:
    ```
